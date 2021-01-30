@@ -78,9 +78,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╿
 ╿ Github:
 ╿ *_PRIVATE BY OWNER_*
-╿ Youtube: 
-╿ https://youtube.com/c/DrawlNag
-╿👆🏻 *_YOUTUBE CREATOR BOT INI*_ 👆🏻
+╿
+╿ 
 ╰═══════════════
 %readmore`
     let header = conn.menu.header || '╭════•›「 %category 」'
