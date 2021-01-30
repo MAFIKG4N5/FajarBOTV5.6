@@ -10,9 +10,9 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Arya274/Arya-BOT3
+5) $git clone https://github.com/Tersakiti404-cyber/FajarBOTV5.6
 6) $ls
-7) $cd Arya-BOT3
+7) $cd FajarBOTV5.6
 
 yang *terakhirr*..
 Penginstalannya cuy :)
@@ -22,6 +22,7 @@ Penginstalannya cuy :)
 _Bisa kalian liat tutorialnya di_
 *Youtube kami:*
 https://www.youtube.com/c/DrawlNag
+👆🏻 *_YOUTUBE CREATOR BOT INI*_ 👆🏻
 `.trim(), m)
 }
 handler.help = ['tutorial']
